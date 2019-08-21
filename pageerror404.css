@@ -1,0 +1,33 @@
+html{
+    background-image:url("https://cdn.shopify.com/s/files/1/0045/3561/5599/products/C750271_800x.jpg?v=1545967075");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
+    
+}
+
+h1{
+    color:darkred;
+    position: static;
+    font-weight: bolder;
+    top: 5%;
+    font-size: 80px;
+    text-align: center;
+}
+h2{
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    position: static;
+    top: 50%;
+    font-size: 60px;
+
+
+}
+input{ 
+    color: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
